@@ -1,0 +1,9 @@
+[02-Nov-2018 09:17:45 Europe/Sofia] PHP Fatal error:  Call to undefined function get_header() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/twentyfifteen/404.php on line 10
+[02-Nov-2018 09:17:47 Europe/Sofia] PHP Fatal error:  Call to undefined function get_header() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/twentyfifteen/404.php on line 10
+[30-May-2019 10:00:10 Europe/Sofia] PHP Fatal error:  Call to undefined function get_header() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/twentyfifteen/404.php on line 10
+[30-May-2019 11:32:57 Europe/Sofia] PHP Fatal error:  Call to undefined function get_header() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/twentyfifteen/404.php on line 10
+[13-Jun-2019 22:25:34 Europe/Sofia] PHP Fatal error:  Call to undefined function get_header() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/twentyfifteen/404.php on line 10
+[10-Dec-2019 21:55:10 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/twentyfifteen/functions.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/twentyfifteen/functions.php on line 41

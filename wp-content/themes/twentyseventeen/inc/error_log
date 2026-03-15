@@ -1,0 +1,5 @@
+[06-Dec-2018 13:52:21 Europe/Sofia] PHP Fatal error:  Call to undefined function add_action() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[22-May-2019 13:55:01 Europe/Sofia] PHP Fatal error:  Call to undefined function add_action() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[22-May-2019 22:05:48 Europe/Sofia] PHP Fatal error:  Call to undefined function add_action() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[12-Jun-2019 02:19:23 Europe/Sofia] PHP Fatal error:  Call to undefined function add_action() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[12-Jun-2019 02:56:36 Europe/Sofia] PHP Fatal error:  Call to undefined function add_action() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26

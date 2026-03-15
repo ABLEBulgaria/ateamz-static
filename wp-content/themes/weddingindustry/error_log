@@ -1,0 +1,24 @@
+[09-Oct-2020 01:06:29 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/weddingindustry/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/weddingindustry/index.php on line 1
+[06-Nov-2020 23:31:37 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/weddingindustry/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/weddingindustry/index.php on line 1
+[22-Feb-2021 04:27:15 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/weddingindustry/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/weddingindustry/index.php on line 1
+[22-May-2021 13:27:48 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/weddingindustry/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/weddingindustry/404.php on line 1
+[23-May-2021 01:31:32 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/weddingindustry/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/weddingindustry/404.php on line 1
+[23-Dec-2021 14:50:22 Europe/Sofia] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/weddingindustry/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ablebulg/public_html_addons/ateamz.net/wp-content/themes/weddingindustry/index.php on line 1
